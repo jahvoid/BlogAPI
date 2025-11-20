@@ -1,0 +1,12 @@
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\bin\Debug\net9.0\BlogAPI.Core.deps.json
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\bin\Debug\net9.0\BlogAPI.Core.dll
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\bin\Debug\net9.0\BlogAPI.Core.pdb
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\obj\Debug\net9.0\BlogAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\obj\Debug\net9.0\BlogAPI.Core.AssemblyInfoInputs.cache
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\obj\Debug\net9.0\BlogAPI.Core.AssemblyInfo.cs
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\obj\Debug\net9.0\BlogAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\obj\Debug\net9.0\BlogAPI.Core.sourcelink.json
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\obj\Debug\net9.0\BlogAPI.Core.dll
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\obj\Debug\net9.0\refint\BlogAPI.Core.dll
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\obj\Debug\net9.0\BlogAPI.Core.pdb
+C:\Users\johnj\Desktop\PROG MATERIALS\BlogAPI\BlogAPI\BlogAPI.Core\obj\Debug\net9.0\ref\BlogAPI.Core.dll

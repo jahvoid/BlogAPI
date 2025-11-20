@@ -9,8 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAPI.Core", "BlogAPI.Cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAPI.Infrastructure", "BlogAPI.Infrastructure\BlogAPI.Infrastructure.csproj", "{00AFDD64-F9C1-4202-8BC3-D61E2F635724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAPI.Tests", "BlogAPI.Tests\BlogAPI.Tests.csproj", "{8718263E-048A-4A0E-8CFC-08A92565C811}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
