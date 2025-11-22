@@ -6,7 +6,7 @@ public interface ICommentRepository
     Task<IEnumerable<Comment>> GetAllAsync();
     Task<Comment?> GetByIdAsync(int id);
 
-    Task<IEnumerable<Comment>> GeCommentsByPostIdAsync(int postId);
+    Task<IEnumerable<Comment>> GetCommentsByPostIdAsync(int postId);
 
     Task<Comment> AddAsync(Comment comment);
 
